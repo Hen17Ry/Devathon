@@ -8,7 +8,7 @@
 
       <!-- Menu Navigation -->
       <ul class="nav-links" :class="{ 'show-links': isMenuOpen }">
-        <li><a href="#">< Acceuil ></a></li>
+        <li><a href="#">< Accueil ></a></li>
         <li><a href="#">< À propos ></a></li>
         <li><a href="#">< Déroulement ></a></li>
       </ul>
